@@ -3,15 +3,9 @@
 #include <stdio.h>
 
 /**
- * n - prints a random number
- * l - prints the last number of n
- *
- */
-
-/**
- * function - prints if last digit of a random number
- * is greater than 5 or less than 6 or 0
- * return - Always 0
+ * main - prints a random number
+ * return - always 0
+ * 
  */
 
 int main(void)
