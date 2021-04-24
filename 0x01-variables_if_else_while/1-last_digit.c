@@ -8,7 +8,12 @@
  *
  */
 
-/* function - prints if last digit of a random number is greater than 5 or less than 6 or 0 */
+/**
+ * function - prints if last digit of a random number
+ * is greater than 5 or less than 6 or 0
+ * return - Always 0
+ */
+
 int main(void)
 {
 	int n, l;
