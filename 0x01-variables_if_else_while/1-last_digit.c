@@ -4,7 +4,8 @@
 
 /**
  * main - prints a random number
- * return - always 0
+ *
+ * return: always 0 (Success)
  * 
  */
 
