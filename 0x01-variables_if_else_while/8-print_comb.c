@@ -1,10 +1,11 @@
+/* File: 8-print_comb.c  Auth: Tayna Sousa */
 #include <stdio.h>
 
 /**
  * main - print all possible combinations of
  * single-digit numbers
  *
- * return - Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
