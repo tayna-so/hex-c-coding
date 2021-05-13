@@ -1,7 +1,4 @@
-/*
- File: 2-print.alphabet.c
- Author: Tayna Sousa
-*/
+/* File: 2-print.alphabet.c  Author: Tayna Sousa */
 #include <stdio.h>
 
 /**
