@@ -1,9 +1,11 @@
+/*
+ * File: 2-print.alphabet.c
+ * Author: Tayna Sousa
+ */
 #include <stdio.h>
 
-/* Prints alphabet in lowercase */
-
 /**
- * main: Entry point
+ * main - print alphabet in lowercase
  *
  * Return: Always 0
  */
