@@ -9,7 +9,7 @@
 /**
  * main - prints a random number
  *
- * return : Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -32,6 +32,5 @@ int main(void)
 		printf("Last digit of %d is %d and is 0\n", n, l);
 	}
 
- /* Return: Always 0 */
 	return (0);
 }
