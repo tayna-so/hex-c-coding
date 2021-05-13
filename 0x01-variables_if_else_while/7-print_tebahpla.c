@@ -1,3 +1,4 @@
+/* File: 7-print_tebahpla.c  Auth: Tayna Sousa */
 #include <stdio.h>
 
 /**
@@ -11,7 +12,7 @@ int main(void)
 
 	char num = 'a';
 
-	for(num = 'z'; num >= 'a'; num--)
+	for (num = 'z'; num >= 'a'; num--)
 		putchar(num);
 
 	putchar('\n');

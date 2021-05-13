@@ -1,12 +1,11 @@
+/* File: 3-print_alphabets.c  Author: Tayna Sousa */
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - print alphabet in lowercase and uppercase
  *
- * return - Always 0
+ * Return: Always 0
  */
-
-/* Print alphabets */
 
 int main(void)
 {
@@ -19,7 +18,7 @@ int main(void)
 
 	for (mai = 'A'; mai <= 'Z'; mai++)
 		putchar(mai);
-	
+
 	putchar('\n');
 
 	return (0);
