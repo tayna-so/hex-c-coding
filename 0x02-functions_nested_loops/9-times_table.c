@@ -1,10 +1,12 @@
-/** File: 9-times_table.c  Author: Tayna Sousa **/
+/*
+ * File: 9-times_table.c
+ * Author: Tayna Sousa
+ */
 #include "holberton.h"
 
 /**
- * main - prints the 9 time tables, starting with 0
- *
- * Return: Always 0.
+ * times_table - prints the 9 time tables, starting with 0
+ * n: number; m: multiplication; p: product.
  */
 void times_table(void)
 {

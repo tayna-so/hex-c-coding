@@ -1,16 +1,19 @@
-/** File: 6-abs.c  Author: Tayna Sousa **/
+/*
+ * File: 6-abs.c
+ * Author: Tayna Sousa
+ */
 #include "holberton.h"
 
 /**
- * main - prints the absolute value of an integer
- *
- * Return: Always 0
+ * _abs - prints the absolute value of an integer
+ * @n: The number which absolute value will be printed
+ * Return: The absolute value
  */
 int _abs(int n)
 {
 	int a;
 
-	if(n < 0)
+	if (n < 0)
 	{
 		a = n * -1;
 

@@ -1,10 +1,12 @@
-/** File: 11-print_to_98.c  Author: Tayna SOusa **/
+/*
+ * File: 11-print_to_98.c
+ *  Author: Tayna Sousa
+ */
 #include "holberton.h"
 #include <stdio.h>
 /**
- * main - print all natural numbers from n to 98
- *
- * Return: Always 0
+ * print_to_98 - print all natural numbers from n to 98
+ * @n: The number that will begin the count to 98
  */
 void print_to_98(int n)
 {

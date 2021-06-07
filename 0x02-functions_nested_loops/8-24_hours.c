@@ -1,8 +1,11 @@
-/** File: 8-24_hours.c  Author: Tayna Sousa **/
+/*
+ * File: 8-24_hours.c
+ * Author: Tayna Sousa
+ */
 #include "holberton.h"
 
 /**
- * main - prints every minute of the day of Jack Bauer
+ * jack_bauer - prints every minute of the day of Jack Bauer
  *
  * Return: Always 0.
  */
