@@ -6,11 +6,11 @@
 
 /**
  * times_table - prints the 9 time tables, starting with 0
- * n: number; m: multiplication; p: product.
  */
 void times_table(void)
 {
 	int p, n, m;
+
 	for (n = 0; n < 10; n++)
 	{
 		_putchar('0');
@@ -27,7 +27,7 @@ void times_table(void)
 			_putchar((m / 10) + '0');
 
 		_putchar((m % 10) + '0');
-		} 
+		}
 	_putchar('\n');
 	}
 }
