@@ -1,14 +1,17 @@
-/** File: 3-islower.c  Author: Tayna Sousa **/
+/*
+ * File: 3-islower.c
+ * Author: Tayna Sousa
+ */
 #include "holberton.h"
 
 /**
- * main - checks for lowercase character
- *
- * Return: 1 if c is lowercase or 0 otherwise
+ * _islower - checks for lowercase character
+ * @c: The character to be checked.
+ * Return: 1 if c is lowercase, 0 otherwise
  */
 int _islower(int c)
 {
-	if(c > 'a' && c < 'z')
+	if (c > 'a' && c < 'z')
 	{
 		return (1);
 	}
