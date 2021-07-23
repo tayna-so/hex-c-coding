@@ -4,7 +4,7 @@
  */
 #include "holberton.h"
 
-/*
+/**
  * _isdigit.c - Checks for a digit (0 through 9)
  * @c: the character to be checked
  */
