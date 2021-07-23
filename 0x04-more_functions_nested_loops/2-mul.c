@@ -1,4 +1,4 @@
-/**
+/*
  * File: 2-mul.c
  * Auth: Tayna Sousa
  */
@@ -6,7 +6,7 @@
 #include "holberton.h"
 
 /**
- * 2-mul.c - multiplies two integers
+ * mul.c - Multiplies two integers
  * @a: first integer
  * @b: second integer
  *
