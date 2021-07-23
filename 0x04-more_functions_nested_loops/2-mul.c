@@ -6,7 +6,7 @@
 #include "holberton.h"
 
 /**
- * mul.c - Multiplies two integers
+ * mul - Multiplies two integers
  * @a: first integer
  * @b: second integer
  *
