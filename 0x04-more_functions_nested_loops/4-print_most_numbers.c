@@ -5,7 +5,8 @@
 #include "holberton.h"
 
 /**
- * print_most_numbers - prints the numbers from 0-9 except for 2 and 4
+ * print_most_numbers - prints the numbers from 0-9
+ * except for 2 and 4
  */
 void print_most_numbers(void)
 {
