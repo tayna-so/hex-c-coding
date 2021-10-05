@@ -2,7 +2,7 @@
 #include "holberton.h"
 
 /**
- * 2-strlen - it returns the length of a string
+ * _strlen - it returns the length of a string
  * @s: the variable to be evaluated
  *
  * Return: length of string
@@ -17,4 +17,4 @@ int _strlen(char *s)
 		i++;
 	}
 	return (i);
-} 
+}
