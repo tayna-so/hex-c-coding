@@ -1,5 +1,6 @@
 /** File: 8-print_array.c  Auth: Tayna Sousa **/
 #include "holberton.h"
+#include <stdio.h>
 
 /**
  * print_array - it prints elements of an arrays of integers
