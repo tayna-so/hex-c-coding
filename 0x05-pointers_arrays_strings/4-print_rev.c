@@ -2,7 +2,7 @@
 #include "holberton.h"
 
 /**
- * 4-print_rev - it prints a string in reverse
+ * print_rev - it prints a string in reverse
  * @s: the string to be printed
  */
 
