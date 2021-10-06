@@ -3,26 +3,26 @@
 #include "holberton.h"
 
 /**
-* _strncpy - it copies a string
-* @dest: A pointer to the string
-* @src: String to be copied
-* @n: concatenates caracters
-* Return: dest
-*/
+ * _strncat - it concatenates two strings
+ * @dest: a pointer to the string
+ * @src: string to be appended
+ * @n concatenates characters
+ * Return: dest
+ **/
 
-char *_strncpy(char *dest, char *src, int n)
+char *_strncat(char *dest, char *src, int n)
 {
-	int j;
+	int i, j;
 
-	j = 0;
+	i = j = 0;
+	while (*(dest + i) != '\0')
+	{
+		i++;
+	}
 	while (*(src + j) != '\0' && n > j)
 	{
-		*(dest + j) = *(src + j);
-		j++;
-	}
-	while (n > j)
-	{
-		*(dest + j) = '\0';
+		*(dest + i) = *(src + j);
+		i++;
 		j++;
 	}
 	return (dest);
