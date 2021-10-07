@@ -14,8 +14,8 @@ int rev, i;
 
 for (i = n - 1; i >= n / 2; i--)
 {
-    rev = a[n - 1 - i];
-    a[n - 1 - i] = a[i];
-    a[i] = rev;
+rev = a[n - 1 - i];
+a[n - 1 - i] = a[i];
+a[i] = rev;
 }
 }
